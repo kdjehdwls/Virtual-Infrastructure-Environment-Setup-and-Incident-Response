@@ -13,7 +13,7 @@
 
 ![infra_2.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_2.jpg)
 
-![infra_4.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_4.jpg)
+![infra.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra.jpg)
 
 
 
@@ -23,7 +23,11 @@
 - 예상되는 피해 보고
 - 인프라 취약점에 대한 진단과 보안 강화 권장 조치 보고
 
-![Slack_alert.png](https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/blob/master/img/Slack_alert.png)
+![pentest_1.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/pentest_1.jpg)
+
+![pentest_3.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/pentest_3.jpg)
+
+![pentest_2.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/pentest_2.jpg)
 
 
 
@@ -34,7 +38,14 @@
 - 피해 발생 범위 확인
 - 대응방안 보고
 
-![Slack_alert.png](https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/blob/master/img/Slack_alert.png)
+![response_1.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/response_1.jpg)
+
+![response_2.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/response_2.jpg)
+
+![response_3.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/response_3.jpg)
+
+![response_4.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/response_4.jpg)
+
 
 
 **[🔗1차 침투 시연영상 링크](https://youtu.be/QqXT8EyFurM)**
