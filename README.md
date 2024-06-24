@@ -7,7 +7,13 @@
 - 인프라에서 각종 보안 장비와 네트워크 구성에 대한 이해
   
 
-![Web.png](https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/blob/master/img/Web.png)
+![infra_4.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_4.jpg)
+
+![infra_3.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_3.jpg)
+
+![infra_2.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_2.jpg)
+
+![infra_4.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra_4.jpg)
 
 
 
