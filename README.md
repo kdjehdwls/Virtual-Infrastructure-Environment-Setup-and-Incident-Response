@@ -15,6 +15,9 @@
 
 ![infra.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/infra.jpg)
 
+-웹 서비스 구성
+
+![webservice.jpg](https://github.com/kdjehdwls/Virtual-Infrastructure-Setup-and-Incident-Response/blob/master/img/webservice.jpg)
 
 
 **2. 가상 인프라에 대한 모의해킹**
